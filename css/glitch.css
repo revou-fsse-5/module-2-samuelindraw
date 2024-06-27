@@ -1,10 +1,10 @@
 .glitch {
-
+    color: var(--anims-color2) ;
     text-transform: uppercase;
     text-shadow: 0 0 35px var(--primary-color);
     text-shadow: 0.05em 0 0 var(--secondary-color),
       -0.025em -0.05em 0 var(--primary-color),
-      0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+      0.025em 0.05em 0 var(--third-color);
   
     animation: glitch 500ms infinite;
   }
