@@ -177,7 +177,7 @@ ul {
   display: flex;
   align-items: center;
   gap: 1rem;
-  list-style: none;
+  list-style-type: none;
   transition: left 0.3s;
 }
 
@@ -315,7 +315,7 @@ ul li a:hover {
   text-align: center;
   border-radius: 2rem;
   box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.1);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../assets/download.jpeg') center/cover no-repeat fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../assets/download.webp') center/cover no-repeat fixed;
   /* background-position: center;
   background-repeat: no-repeat;
   background-size: cover; */
