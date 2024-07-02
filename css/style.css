@@ -48,9 +48,12 @@ header {
   left: 0;
   background-color: var(--header);
   z-index: 99;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
 }
 .dark-mode-toggle {
-  position: auto;
+  position: left;
   z-index: 100;
   top: 1em;
   right: 1em;
@@ -64,12 +67,6 @@ header {
   height: 30px;
 }
 
-.click-here {
-  right: 1.5em;
-  position: absolute;
-  top: 3em;
-}
-
 .contact {
     width: 100%;
     position: fixed;
@@ -81,6 +78,7 @@ header {
   
 
 .nav__content {
+  width: 100%;
   max-width: var(--max-width);
   margin: auto;
   padding: 1.5rem 1rem;
@@ -599,6 +597,7 @@ iframe {
 @media (width < 750px) {
   nav .checkboxes {
     display: block;
+    margin: 0 auto;
   }
 
   .image-grid {
