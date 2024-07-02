@@ -584,7 +584,7 @@ iframe {
   border: none;
   font-size: 1rem;
   color: var(--white);
-  background-color: var(--primary-color);
+  background-color: var(--box-color);
   border-radius: 1rem;
   cursor: pointer;
   transition: 0.3s;
