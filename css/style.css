@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
-  --primary-color: #00332a;
+  --primary-color: #55d7f7;
   --primary-color-dark: #55d7f7;
   --primary-color-coral: lightcoral;
   --secondary-color: #25d3ff;
@@ -584,7 +584,7 @@ iframe {
   border: none;
   font-size: 1rem;
   color: var(--white);
-  background-color: var(--box-color);
+  background-color: var(--primary-color);
   border-radius: 1rem;
   cursor: pointer;
   transition: 0.3s;
