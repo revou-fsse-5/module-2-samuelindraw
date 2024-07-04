@@ -1,31 +1,152 @@
-<img align="right" width="400" height="400" src="assets/anime-girl.webp">
+# My Portofolio Project
+
+portfolio is a personal website designed to showcase My skillset, past projects, and personality. It’s like answering the classic interview question, “Why should we hire you?” by providing illustrative examples of My work. As a front-end developer, My portfolio serves as a place to display code, projects, and UI/UX sensibilities. By hosting my code on a public repository, I am allowing others to see my code, and my work.
 
 
-# Hi, I'm Samuel :cat:
+This portofolio project is deployed via Vercel and use Custom Domain using NiagaHoster
 
-Full-Stack Developer | Software engineer :robot:. (In progress)
+## Screenshots
 
-Revou Student. :man_technologist:
 
-## About me 
+<img height="400" src="assets/web-ss.png">
 
-:heart: Gaming | :black_heart: Music | :blue_heart: Programming
+### Built on 
 
-- 🌍 I'm from kudus - indonesia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- 💻 [Html](https://www.typescriptlang.org/)
 
-I am a web developer with years of experience in creating and managing websites. My skills include coding in HTML, CSS, and JavaScript, as well as working with ERPs like WordPress and PROGRESS 4GL. I am also experienced in using server-side scripting languages like PHP and C#. I am confident in my abilities and am always looking for new challenges and opportunities to grow as a developer. I am excited to share my skills with the world and hope to make a positive impact on the web development community.
+- 🚀 [CSS](https://nextjs.org/)
 
-## Repository
+- ⚛️ [Javascript](https://reactjs.org/)
 
-About this repo is made for my portofolio blueprint and also a task from revou class 
 
->https://revou-fsse-5.github.io/T2-Samuel-Indra-Wijaya/
+## Table of Contents
 
-## Social media :mailbox_with_no_mail:
+- [Installation](#Installation)
+- [Deployment](#deployment)
+- [Domain Configuration](#Domain)
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/)
 
----
-⭐️ From samuel
+<a id="Installation"></a>
+
+## Installation
+
+Install my-project with this following step
+
+```bash
+  Go to https://github.com/samuelindraw/module-2-samuelindraw
+  Git Clone https://github.com/samuelindraw/module-2-samuelindraw
+  Open index.html or launch it with live server on visual studio code 
+```
+
+We are very happy if you are interested and also contributing to My portofolio project 🤗
+
+Here are a few options:
+
+- Star this repo.
+
+- Create issues every time you feel something is missing or goes wrong.
+
+
+
+### Header info
+| Header | Description |
+| --- | --- |
+| `Home` | Home is an introduction page |
+| `About` | Helping you to tell who your really are, whats your hobby etc |
+| `Contact` | Where people can reach out to you! |
+
+
+<a id="deployment"></a>
+
+
+
+# Deployment
+
+if you want your website to be accessible to other people you need to deploy it. 
+in this case i was using vercel to deploy my website.
+
+
+what is vercel ? 
+
+<img height="200" src="assets/vercel.jpg">
+
+Vercel is a powerful cloud platform that simplifies web development and deployment for frontend developers. 
+
+## Deployment Step
+
+### Register on Vercel
+>You can register using Github account 
+
+Step 1: After register you will see dashboard of vercel site\
+Step 2: You can see, Your repository that connected to your github account and recent project\
+Step 3: You can also add new project by clicking Add New\
+
+<br> 
+
+<img height="400" src="assets/vercel2.png">
+
+<br>
+
+### Connect to Your Repository
+>Connect to your own github repository
+
+<img height="400" src="assets/ss1.png">
+
+<br>
+
+Step 1: Fork project `https://github.com/revou-fsse-5/module-2-samuelindraw`
+
+> Vercel cannot takes from private repository, while revou repository is private so we mush clone to our public repository.
+
+<img height="400" src="assets/ss1.png">
+<br>
+
+Step 2: Locate to Project folder
+> After forking from RevoU repository we need to create Project and Import our git repository to Configure Project 
+
+<br>
+
+<img height="400" src="assets/ss2.png">
+
+<br> 
+<br> 
+
+<img height="400" src="assets/ss3.png">
+
+
+Step 3: Configure Project 
+> We need to configure our project, By Choosing repository name and set framework that we use, if we only use html or css we can use other option.
+
+* insert Project Name 
+* Choose Framwork
+* Deploy
+
+<br>
+
+<img height="400" src="assets/ss4.png">
+
+<br>
+<br>
+
+Step 4: Configure Deploy Site
+> You can change domain or anything else after we finish deployment
+
+<img height="400" src="assets/ss5.png">
+<img height="400" src="assets/ss6.png">
+
+
+Step 5: To build, run command `npm run build`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
