@@ -87,7 +87,7 @@ Step 3: You can also add new project by clicking Add New\
 
 <br>
 
-### Connect to Your Repository
+### Connect and Deploy Your Repository
 >Connect to your own github repository
 
 <img height="400" src="assets/ss1.png">
@@ -134,8 +134,20 @@ Step 4: Configure Deploy Site
 <img height="400" src="assets/ss5.png">
 <img height="400" src="assets/ss6.png">
 
+<br> 
 
-Step 5: To build, run command `npm run build`
+* Check your project and click the settings 
+* You will see more action on left side, choose domain
+* And there you can change vercel domain
+<br>
+
+# Use Niaga Hoster Domain
+
+Why we need domain ? 
+>A domain is like your website’s street address. It’s the unique reference that identifies your website online. When customers type it into their browsers, they find your site. 
+
+Step 1 : 
+
 
 
 
