@@ -249,7 +249,13 @@ was a list your custom domain, with some notice
 # DONE !!!
 
 > [!TIP]
-> AND YOU ARE SET, JUST WAIT AND YOU CAN USE YOUR CUSTOM DOMAIN !!! :) 
+> AND YOU ARE SET, JUST WAIT AND YOU CAN USE YOUR CUSTOM DOMAIN !!! 
+
+## deployment link
+
+> [!IMPORTANT]
+> https://myportofolio.online/
+> https://portofoliositeme.vercel.app/
 
 
 
