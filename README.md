@@ -218,7 +218,7 @@ Why we need domain ?
 
 3. After adding custom domain, you will see that there 
 was a list your custom domain, with some notice 
-> [!IMPORTANT]
+> [!CAUTION]
 > Invalid configuration.
 
 <br>
@@ -227,9 +227,27 @@ was a list your custom domain, with some notice
 
 <br>
 
+4. Connect Vercel DNS to Domain Hosting \
+1 On name server choose use vercel DNS \
+2 Then Look at set the names apex domain to\
+3 Copy that and configure it on your custom domain site
 
+<br>
 
+<img height="400" src="assets/ss16.png">
 
+<br>
+
+<br>
+
+<img height="400" src="assets/ss17.png">
+
+<br>
+
+# DONE !!!
+
+> [!TIP]
+> AND YOU ARE SET, JUST WAIT AND YOU CAN USE YOUR CUSTOM DOMAIN !!! :) 
 
 
 
