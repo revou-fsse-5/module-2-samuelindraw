@@ -94,14 +94,14 @@ Step 3: You can also add new project by clicking Add New\
 
 <br>
 
-Step 1: Fork project `https://github.com/revou-fsse-5/module-2-samuelindraw`
+#### Step 1: Fork project `https://github.com/revou-fsse-5/module-2-samuelindraw`
 
 > Vercel cannot takes from private repository, while revou repository is private so we mush clone to our public repository.
 
 <img height="400" src="assets/ss1.png">
 <br>
 
-Step 2: Locate to Project folder
+#### Step 2: Locate to Project folder
 > After forking from RevoU repository we need to create Project and Import our git repository to Configure Project 
 
 <br>
@@ -114,12 +114,12 @@ Step 2: Locate to Project folder
 <img height="400" src="assets/ss3.png">
 
 
-Step 3: Configure Project 
+#### Step 3: Configure Project 
 > We need to configure our project, By Choosing repository name and set framework that we use, if we only use html or css we can use other option.
 
 * insert Project Name 
 * Choose Framwork
-* Deploy
+* Deploy 
 
 <br>
 
@@ -128,7 +128,16 @@ Step 3: Configure Project
 <br>
 <br>
 
-Step 4: Configure Deploy Site
+> here is what you see, when deployment was success
+
+<br>
+
+<img height="400" src="assets/ss11.png">
+
+<br>
+<br>
+
+#### Step 4: Configure Deploy Site
 > You can change domain or anything else after we finish deployment
 
 <img height="400" src="assets/ss5.png">
@@ -141,17 +150,82 @@ Step 4: Configure Deploy Site
 * And there you can change vercel domain
 <br>
 
-# Use Niaga Hoster Domain
+# Domain Configuration
 
 Why we need domain ? 
 >A domain is like your website’s street address. It’s the unique reference that identifies your website online. When customers type it into their browsers, they find your site. 
 
-Step 1 : 
+## Step 1 : Register and Login at Niaga Hoster
+> you can register and login using your own gmail / github email
+
+<br>
+
+<img height="400" src="assets/ss7.png">
+
+<br>
+<br>
+
+## Step 2 : Go to domain tab and search whenever domain that you will use.\
+`how to choose domain name`
+* Prioritize Brandability: A unique, brandable domain stands out. 
+* Keep It Short: Shorter domain names are easier to remember.
+
+<br>
+
+<img height="400" src="assets/ss8.png">
+
+<br>
+<br>
+
+## Step 3 : Buy domain that suites you 
+
+1. You can pay using virtual account, bank transfer or etc
+2. After that you can verify your email.
+3. Check Dashboard and see if your domain name is activated
+
+<br>
+
+<img height="400" src="assets/data1.png">
+
+<br>
+<img height="400" src="assets/data2.png">
+<br>
 
 
+## Step 4: Setup Custom Domain
 
+1. On vercel, Click your recent project and click Domain
 
+<br>
 
+<img height="400" src="assets/ss15.png">
+
+<br>
+
+2. Your can add your custom domain, Domain provider that you have buy.
+
+<br>
+
+<img height="400" src="assets/ss12.png">
+
+<br>
+
+<br>
+
+<img height="400" src="assets/ss13.png">
+
+<br>
+
+3. After adding custom domain, you will see that there 
+was a list your custom domain, with some notice 
+> [!IMPORTANT]
+> Invalid configuration.
+
+<br>
+
+<img height="400" src="assets/ss14.png">
+
+<br>
 
 
 
