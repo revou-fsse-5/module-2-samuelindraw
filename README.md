@@ -253,9 +253,11 @@ was a list your custom domain, with some notice
 
 ## deployment link
 
-[!IMPORTANT]
+# DEPLOYMENT LINK
+> [!IMPORTANT]
+> Under this is my deployment link.
 https://myportofolio.online/
-ttps://portofoliositeme.vercel.app/
+https://portofoliositeme.vercel.app/
 
 
 
